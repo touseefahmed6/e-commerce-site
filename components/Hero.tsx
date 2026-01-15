@@ -70,7 +70,7 @@ const Hero: React.FC = () => {
             <motion.div 
               animate={{ y: [0, -15, 0] }}
               transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
-              className="absolute top-0 -right-12 py-6 px-12 glass-card rounded-[32px] z-20 shadow-2xl border-white/5"
+              className="absolute top-0 -right-12 py-6 px-12 glass-card1 rounded-[32px] z-20 shadow-2xl border-white/5"
             >
               <div className="glass-highlight opacity-30" />
               <div className="text-[8px] text-cyan-400 font-black uppercase tracking-[0.4em] mb-2">Cushioning</div>

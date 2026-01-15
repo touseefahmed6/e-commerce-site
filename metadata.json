@@ -1,0 +1,8 @@
+{
+  "name": "Sparksphere - Premium E-commerce",
+  "description": "A luxury e-commerce landing page featuring high-end sneaker collections with scroll-reactive glassmorphism and cinematic lighting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -8,7 +8,6 @@ import WhyUs from './components/WhyUs';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import ScrollBackground from './components/ScrollBackground';
-import AISidekick from './components/AISidekick';
 import { Zap } from 'lucide-react';
 
 const App: React.FC = () => {
@@ -87,7 +86,6 @@ const App: React.FC = () => {
         )}
       </AnimatePresence>
 
-      <AISidekick />
     </div>
   );
 };
